@@ -1,1 +1,1 @@
-# FurryFrineds
+Furry Friends is a fun and educational augmented reality (AR) application for children. By scanning their cards, users can answer various questions and evaluate four different options for each question. This app helps children develop basic math skills.
